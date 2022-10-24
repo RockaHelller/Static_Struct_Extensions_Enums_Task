@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.AssemblyInfo.cs
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.exe
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.deps.json
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.runtimeconfig.json
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.runtimeconfig.dev.json
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.dll
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.pdb
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.dll
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.pdb
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.genruntimeconfig.cache
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\User\source\repos\Static, Struct, Extentions, Enums Homework\Static, Struct, Extentions, Enums Homework\obj\Debug\netcoreapp3.1\Static, Struct, Extentions, Enums Homework.csproj.CopyComplete
